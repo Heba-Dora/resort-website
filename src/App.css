@@ -1,3 +1,12 @@
-.navbar .navbar-expand-lg .navbar-light .bg-dark {
-  color: white;
+
+.navbar-toggler-icon{
+  background-color: transparent;
+  width: 15px;
+  height: 10px;
+  color: transparent;
+
+}
+.navbar-brand{
+  font-family: sans-serif;
+  font-style: italic;
 }
